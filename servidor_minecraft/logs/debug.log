@@ -13583,3 +13583,181 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Dec2024 02:54:46.051] [Worker-Main-15/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=314, y=26, z=79} at Chest with:minecraft:chests/simple_dungeon
 [15Dec2024 02:54:50.443] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of inventorypets:sea_cave
 [15Dec2024 02:54:50.461] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior216
+[15Dec2024 02:54:58.982] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:54:59.152] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:54:59.152] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:54:59.152] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:54:59.153] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:55:05.563] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:55:05.564] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:55:05.564] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:55:05.564] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:55:11.367] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/12365, l='ServerLevel[world]', x=-31.74, y=-20.00, z=54.08] died: Toxic Slime was killed
+[15Dec2024 02:55:21.653] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[15Dec2024 02:55:24.201] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[15Dec2024 02:55:26.800] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[15Dec2024 02:55:35.909] [Worker-Main-15/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_08 is being run through DFU (hash b5906c65230c4b4fb2b57aad2f32b23872a2b439bfca97245290b29a955d6746), this will cause launch time delays
+[15Dec2024 02:55:36.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN is bleeding. MAIDERMAN was slain by Assasin Black Ops
+[15Dec2024 02:55:36.074] [Server thread/WARN] [tombstone/]: The death event of the player MAIDERMAN was canceled by another mod
+[15Dec2024 02:55:36.103] [Server thread/INFO] [tombstone/]: The player MAIDERMAN has successfully been saved
+[15Dec2024 02:55:36.111] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[15Dec2024 02:55:38.256] [Worker-Main-13/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_06 is being run through DFU (hash 6c1da2b21280ecf0012a28b5a48c1e2abe843922cfeb1f252f2f5741af6ca9b4), this will cause launch time delays
+[15Dec2024 02:55:42.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/13747, l='ServerLevel[world]', x=-20.74, y=-20.00, z=42.26] died: Toxic Slime was killed
+[15Dec2024 02:55:42.634] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/13748, l='ServerLevel[world]', x=-28.83, y=-20.00, z=51.05] died: Toxic Slime was killed
+[15Dec2024 02:55:44.218] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:55:44.219] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:55:44.220] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:55:44.221] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:55:44.222] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:01.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN was slain by Assasin Black Ops
+[15Dec2024 02:56:01.997] [Server thread/DEBUG] [tombstone/]: A new grave of the player MAIDERMAN was created at position [x:150, y:67, z:18, dim:minecraft:overworld]
+[15Dec2024 02:56:01.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has made the advancement [Your First Grave]
+[15Dec2024 02:56:03.398] [Server thread/DEBUG] [twilightforest/]: Player MAIDERMAN (523be261-c943-38d1-b494-39cabb2c697c) respawned and received items held in storage
+[15Dec2024 02:56:03.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has made the advancement [The Most Useful Key]
+[15Dec2024 02:56:16.538] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/intersection_big
+[15Dec2024 02:56:16.539] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[15Dec2024 02:56:16.547] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend2
+[15Dec2024 02:56:16.570] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/generic_big2
+[15Dec2024 02:56:16.593] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/farmer
+[15Dec2024 02:56:16.624] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/church
+[15Dec2024 02:56:16.631] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/generic2
+[15Dec2024 02:56:16.634] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/generic3
+[15Dec2024 02:56:16.640] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/barn
+[15Dec2024 02:56:16.643] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/generic1
+[15Dec2024 02:56:16.657] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/cartographer
+[15Dec2024 02:56:16.664] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/shepherd
+[15Dec2024 02:56:16.671] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/fisherman
+[15Dec2024 02:56:16.682] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/generic_big4
+[15Dec2024 02:56:16.693] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/archer
+[15Dec2024 02:56:16.702] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/generic5
+[15Dec2024 02:56:16.713] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/houses/generic_big3
+[15Dec2024 02:56:16.949] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[15Dec2024 02:56:16.958] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[15Dec2024 02:56:16.967] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[15Dec2024 02:56:19.292] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:19.293] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:19.293] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:19.294] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:19.294] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:20.733] [Worker-Main-15/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_10 is being run through DFU (hash c7974966b3cacec8f613dc29c7de8da5876a080944286a022e569a6cf4e769ea), this will cause launch time delays
+[15Dec2024 02:56:20.870] [Worker-Main-15/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_13 is being run through DFU (hash be147b02042888c3ee04f32b1ec22eba46a28181be72f3defe68bcfa98203d41), this will cause launch time delays
+[15Dec2024 02:56:21.641] [Worker-Main-13/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_02 is being run through DFU (hash b63cd00562fdf5f9ea9744abb00ce56e0882151132af5d38ce912590f9cbf529), this will cause launch time delays
+[15Dec2024 02:56:23.520] [Worker-Main-14/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_09 is being run through DFU (hash c5992bdd829d32aa0929d3b8c005aa4eeaf4e7a796cdc666c5ba9bf38564ca72), this will cause launch time delays
+[15Dec2024 02:56:23.946] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:23.947] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:23.947] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:23.947] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:24.113] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:24.113] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:24.114] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:24.114] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:24.475] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:24.475] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:24.476] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:24.476] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 02:56:25.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has reached the goal [Here They Come]
+[15Dec2024 02:56:26.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 02:56:26.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 02:56:41.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin was slain by Runner
+[15Dec2024 02:56:41.035] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[15Dec2024 02:56:41.049] [Worker-Main-13/DEBUG] [ModernFix/]: Structure graveyard:small_desert_graveyard/small_desert_graveyard_01 is being run through DFU (hash aabbd74d855cc66d4a3611a477fb9bb23d22e976a152baf6dfdf17e693f96678), this will cause launch time delays
+[15Dec2024 02:56:41.052] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[15Dec2024 02:56:48.931] [Worker-Main-15/DEBUG] [ModernFix/]: Structure graveyard:ruins/ruins_01 is being run through DFU (hash f1654765854fa332de1ee5ca1121166c19dcceb49cdf937a789033199835de49), this will cause launch time delays
+[15Dec2024 02:56:52.349] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[15Dec2024 02:56:52.364] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[15Dec2024 02:56:52.380] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[15Dec2024 02:56:52.393] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[15Dec2024 02:56:52.402] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[15Dec2024 02:56:52.406] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[15Dec2024 02:56:52.423] [Worker-Main-13/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_6 is being run through DFU (hash fc412bc441f52e517d132887d71fc75c953272010496dbe356e77d33943fe26d), this will cause launch time delays
+[15Dec2024 02:56:52.504] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[15Dec2024 02:56:52.522] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[15Dec2024 02:56:52.544] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[15Dec2024 02:56:52.568] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[15Dec2024 02:56:53.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15Dec2024 02:56:54.126] [Worker-Main-13/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=32, y=-16, z=-351} at Coffin with:graveyard:chests/crypt_loot
+[15Dec2024 02:56:59.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin was slain by Runner
+[15Dec2024 02:56:59.351] [Server thread/DEBUG] [tombstone/]: A new grave of the player GValentin was created at position [x:-13, y:61, z:39, dim:minecraft:the_nether]
+[15Dec2024 02:57:00.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15187, l='ServerLevel[world]', x=25.74, y=-20.00, z=9.74] died: Toxic Slime was killed
+[15Dec2024 02:57:01.304] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[15Dec2024 02:57:01.539] [Server thread/DEBUG] [twilightforest/]: Player GValentin (e5126bd2-c62d-35be-911d-c923c30297e0) respawned and received items held in storage
+[15Dec2024 02:57:01.807] [Worker-Main-15/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_17 is being run through DFU (hash 4f3740a04bde695030335307eb6887e52117d7d73f287d5c2b35f561572d09dd), this will cause launch time delays
+[15Dec2024 02:57:02.491] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[15Dec2024 02:57:02.508] [Worker-Main-13/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1 is being run through DFU (hash 55f9831fdf8d35df8191e3e13ab17e546d65a10fafbb3fdb700f14809a4bd08a), this will cause launch time delays
+[15Dec2024 02:57:02.580] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[15Dec2024 02:57:02.651] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[15Dec2024 02:57:02.694] [Worker-Main-13/DEBUG] [ModernFix/]: Structure kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1 is being run through DFU (hash 005119925e1887e9c2c04f781c51502193d36d6dee555df4703e7333056eac58), this will cause launch time delays
+[15Dec2024 02:57:02.727] [Worker-Main-13/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1 is being run through DFU (hash 2b161666470cdae038cc9215e0866357d25cff7d98b8fe0774ad8fc2d9a1c882), this will cause launch time delays
+[15Dec2024 02:57:02.768] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[15Dec2024 02:57:02.810] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[15Dec2024 02:57:02.835] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[15Dec2024 02:57:02.901] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[15Dec2024 02:57:02.975] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[15Dec2024 02:57:02.992] [Worker-Main-13/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1 is being run through DFU (hash 4ddbe58f4300394f2ef8c6f526ed1930c9fe9b32262ad7e9c3e1db3f91689b76), this will cause launch time delays
+[15Dec2024 02:57:03.029] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[15Dec2024 02:57:06.404] [Worker-Main-15/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_01 is being run through DFU (hash 6d9b6e318daae6faa627d84071a97d778adc0fb388a31b57e95bc21922469075), this will cause launch time delays
+[15Dec2024 02:57:06.492] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[15Dec2024 02:58:37.972] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[15Dec2024 02:58:39.848] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[15Dec2024 02:59:01.355] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[15Dec2024 02:59:09.589] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[15Dec2024 02:59:10.004] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[15Dec2024 02:59:18.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin was simmered in stygian blood
+[15Dec2024 02:59:18.258] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[15Dec2024 02:59:18.275] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[15Dec2024 02:59:28.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[15Dec2024 02:59:37.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin was simmered in stygian blood
+[15Dec2024 02:59:37.540] [Server thread/DEBUG] [tombstone/]: A new grave of the player GValentin was created at position [x:41, y:75, z:45, dim:minecraft:the_nether]
+[15Dec2024 02:59:37.544] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[15Dec2024 02:59:44.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GValentin lost connection: Disconnected
+[15Dec2024 02:59:44.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin left the game
+[15Dec2024 02:59:50.386] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[15Dec2024 02:59:52.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/22213, l='ServerLevel[world]', x=-0.18, y=68.00, z=-48.54] died: Toxic Slime was killed by magic
+[15Dec2024 03:00:04.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Dec2024 03:00:04.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Dec2024 03:00:04.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Dec2024 03:00:04.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Dec2024 03:00:05.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Dec2024 03:00:09.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/infinite_abyss:fourth_layer
+[15Dec2024 03:00:09.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[15Dec2024 03:00:09.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[15Dec2024 03:00:09.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/infinite_abyss:fifth_layer
+[15Dec2024 03:00:09.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[15Dec2024 03:00:09.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/infinite_abyss:sixth_layer
+[15Dec2024 03:00:09.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Dec2024 03:00:09.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/infinite_abyss:second_layer
+[15Dec2024 03:00:09.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/infinite_abyss:first_layer
+[15Dec2024 03:00:09.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/macabre:the_pit
+[15Dec2024 03:00:09.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[15Dec2024 03:00:09.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Dec2024 03:00:09.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[15Dec2024 03:00:09.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/infinite_abyss:seventh_layer
+[15Dec2024 03:00:09.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[15Dec2024 03:00:09.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[15Dec2024 03:00:09.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[15Dec2024 03:00:09.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_afterdark:afterdark
+[15Dec2024 03:00:09.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 03:00:09.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 03:00:09.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Dec2024 03:00:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (fourth_layer): All chunks are saved
+[15Dec2024 03:00:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[15Dec2024 03:00:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[15Dec2024 03:00:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (fifth_layer): All chunks are saved
+[15Dec2024 03:00:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[15Dec2024 03:00:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (sixth_layer): All chunks are saved
+[15Dec2024 03:00:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Dec2024 03:00:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (second_layer): All chunks are saved
+[15Dec2024 03:00:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (first_layer): All chunks are saved
+[15Dec2024 03:00:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_pit): All chunks are saved
+[15Dec2024 03:00:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[15Dec2024 03:00:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Dec2024 03:00:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[15Dec2024 03:00:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (seventh_layer): All chunks are saved
+[15Dec2024 03:00:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[15Dec2024 03:00:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[15Dec2024 03:00:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[15Dec2024 03:00:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (afterdark): All chunks are saved
+[15Dec2024 03:00:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Dec2024 03:00:09.569] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@73a5a34c
+[15Dec2024 03:00:09.570] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[15Dec2024 03:00:09.582] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
